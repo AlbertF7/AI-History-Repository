@@ -1,6 +1,6 @@
 # Module 04: Games Change Everything
 
-This project contains the instructions and resources for 
+This project contains the resources and assignments for Module 04
 
 
 ## Module Presentation
@@ -28,6 +28,6 @@ This project contains the instructions and resources for
 ### 
 <br>
 
-## Module Rederences
+## Module References
 [Leadership Skills Opporunity: Learning How to Learn](https://www.youtube.com/watch?v=vd2dtkMINIw)
 
