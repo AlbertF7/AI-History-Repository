@@ -29,5 +29,6 @@ This project contains the resources and assignments for Module 04
 <br>
 
 ## Module References
-[Leadership Skills Opporunity: Learning How to Learn](https://www.youtube.com/watch?v=vd2dtkMINIw)
+[Leadership Skills Opporunity: Learning How to Learn Video](https://www.youtube.com/watch?v=vd2dtkMINIw)
 
+[1625 Nvidia Machine Learning Paper](https://eagleonline.hccs.edu/courses/303292/files/78771571?module_item_id=20937048)
