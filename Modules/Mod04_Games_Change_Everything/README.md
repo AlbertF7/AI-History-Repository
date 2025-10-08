@@ -39,4 +39,4 @@ This project contains the resources and assignments for Module 04
 
 [Audi 25th hour study](https://eagleonline.hccs.edu/courses/303292/files/78771567?module_item_id=20937051)
 
-[Book: Designing The User Interface 4th Edition](https://eagleonline.hccs.edu/courses/303292/files/78771567?module_item_id=20937051)
+[Book: Designing The User Interface 4th Edition](https://eagleonline.hccs.edu/courses/303292/files/78771577?module_item_id=20937055)
