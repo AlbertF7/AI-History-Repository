@@ -42,3 +42,29 @@ This project contains the resources and assignments for Module 04
 [Book: Designing The User Interface 4th Edition](https://eagleonline.hccs.edu/courses/303292/files/78771577?module_item_id=20937055)
 
 [Book: Computer Graphics Terminals - A Backward Look](https://eagleonline.hccs.edu/courses/303292/files/78771572?module_item_id=20937056)
+
+[RNDR Network Guide](https://eagleonline.hccs.edu/courses/303292/files/78771967?module_item_id=20937057)
+
+[Jaron Lanier’s EyePhone: Head And
+Glove Virtual Reality In The 1980s](https://eagleonline.hccs.edu/courses/303292/files/78771564?module_item_id=20937058)
+
+[Thesis A Mixed-Reality Approach for
+Cyber-situation Awareness](https://eagleonline.hccs.edu/courses/303292/files/78772167?module_item_id=20937059)
+
+[Laboratory for Animate Technologies](https://eagleonline.hccs.edu/courses/303292/files/78771569?module_item_id=20937060)
+
+[Nvidia VR and Augmented Reality](https://eagleonline.hccs.edu/courses/303292/files/78772241?module_item_id=20937062)
+
+[Nvidia GPU DPU Pacman](https://eagleonline.hccs.edu/courses/303292/files/78772163?module_item_id=20937064)
+
+[Blockchain Startup RNDR Surpasses GPU
+Capacity of Public Cloud Tech Giants with
+World’s Largest GPU Cloud Rendering
+Network](https://eagleonline.hccs.edu/courses/303292/files/78771584?module_item_id=20937065)
+
+[RNDR User Manual](https://eagleonline.hccs.edu/courses/303292/files/78771963?module_item_id=20937066)
+
+[ESSENTIALS OF
+GAME THEORY:
+A Concise, Multidisciplinary
+Introduction](https://eagleonline.hccs.edu/courses/303292/files/78771586?module_item_id=20937067)
