@@ -68,3 +68,27 @@ Network](https://eagleonline.hccs.edu/courses/303292/files/78771584?module_item_
 GAME THEORY:
 A Concise, Multidisciplinary
 Introduction](https://eagleonline.hccs.edu/courses/303292/files/78771586?module_item_id=20937067)
+
+[Soul Machines: Mark Sagar](https://eagleonline.hccs.edu/courses/303292/files/78771574?module_item_id=20937068)
+
+[Soul Machines PDF](https://eagleonline.hccs.edu/courses/303292/files/78771587?module_item_id=20937069)
+
+[A critique of Bernard Suits' 1967
+definition of "a game"](https://eagleonline.hccs.edu/courses/303292/files/78771576?module_item_id=20937070)
+
+[Unity Distribution Platform](https://eagleonline.hccs.edu/courses/303292/files/78771961?module_item_id=20937071)
+
+[Unity: How to Create a Configurable Car HDRP](https://eagleonline.hccs.edu/courses/303292/files/78771581?module_item_id=20937072)
+
+[Creating immersive, photorealistic VR
+experiences with the High Definition
+Render Pipeline](https://eagleonline.hccs.edu/courses/303292/files/78772170?module_item_id=20937073)
+
+[Unity Mars Companion App](https://eagleonline.hccs.edu/courses/303292/files/78771589?module_item_id=20937074)
+
+[A look at how Simulation works in Unity
+MARS](https://eagleonline.hccs.edu/courses/303292/files/78771591?module_item_id=20937075)
+
+[Virtual Digital Human Monitoring](https://eagleonline.hccs.edu/courses/303292/files/78771592?module_item_id=20937076)
+
+[The Story of X](https://eagleonline.hccs.edu/courses/303292/files/78771563?module_item_id=20937077)
