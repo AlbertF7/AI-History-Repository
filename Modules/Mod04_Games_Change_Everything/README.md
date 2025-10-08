@@ -32,3 +32,7 @@ This project contains the resources and assignments for Module 04
 [Leadership Skills Opporunity: Learning How to Learn Video](https://www.youtube.com/watch?v=vd2dtkMINIw)
 
 [1625 Nvidia Machine Learning Paper](https://eagleonline.hccs.edu/courses/303292/files/78771571?module_item_id=20937048)
+
+[MIT 3d Space Jaron Lanier Paper: Whole Hand Input](https://eagleonline.hccs.edu/courses/303292/files/78771971?module_item_id=20937049)
+
+[A Hand Gesture Interface Device](https://eagleonline.hccs.edu/courses/303292/files/78771960?module_item_id=20937050)
